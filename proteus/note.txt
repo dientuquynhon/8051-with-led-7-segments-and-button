@@ -1,0 +1,1 @@
+proteus: 8051, button, led 7 segment
